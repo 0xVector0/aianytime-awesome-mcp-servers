@@ -1,0 +1,9 @@
+{
+  "name": "SitePatent",
+  "url": "https://sitepatent.com/mcp",
+  "category": "search",
+  "transport": "http",
+  "description": "Read-only search of the SitePatent directory of hand-reviewed startups, SaaS and AI tools: keyword search, full listing profiles, alternatives to a product, category browsing and trending listings; no API key, no account. Endpoint: `https://sitepatent.com/api/mcp` · [Docs](https://sitepatent.com/mcp)",
+  "endpoint": "https://sitepatent.com/api/mcp",
+  "registry": "com.sitepatent/directory"
+}
