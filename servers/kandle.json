@@ -1,0 +1,8 @@
+{
+  "name": "Kandle",
+  "url": "https://github.com/Kernel-Hunter/kandle",
+  "category": "finance",
+  "transport": "stdio",
+  "description": "Lets an agent drive Kandle, an open-source browser charting app for crypto, stocks and forex: read candles and indicator values, draw levels, set alerts, run scripts with strategy backtests and take screenshots (26 tools). Crypto data needs no API key; the server talks to the open Kandle tab over a WebSocket on 127.0.0.1. Install: `npx -y --package=https://github.com/Kernel-Hunter/kandle/releases/download/v0.10.1/kandle-mcp-0.10.1.tgz kandle-mcp` · [App](https://kernel-hunter.github.io/kandle/)",
+  "registry": "io.github.Kernel-Hunter/kandle"
+}
