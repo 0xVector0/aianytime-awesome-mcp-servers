@@ -329,6 +329,7 @@ A listing is not a security review. Read a server's source and permissions befor
 - **[Vedar Kamchatka](https://github.com/tourhabk-ui/pos)** `http` — Kamchatka (Russia) travel: tours, accommodation, transfers, trip planning and booking requests, plus volcano status, weather and safety info. Endpoint: `https://vedarai.ru/api/mcp` (no auth) · Registry: `ru.vedarai/mcp`
 - **[Whale Coupons](https://github.com/whalecoupons/whale-coupons-mcp)** `http` — Read-only search for store-issued coupon and discount codes from independent online stores, so an assistant can find codes for a named store, domain or product category. No account or API key. Endpoint: `https://whalecoupons.co/mcp` · [Website](https://whalecoupons.co) · Registry: `co.whalecoupons/whale-coupons`
 - **[Wheremind](https://wheremind.ai/maps-mcp)** `http` — Hosted maps server: live place search, place details, nearby search, forward and reverse geocoding, and turn-by-turn directions, with no Maps API key to manage. Read-only tools; invite-only beta with OAuth or a stored Bearer header. Endpoint: `https://wheremind.ai/mcp` · [Docs](https://wheremind.ai/llms.txt) · Registry: `ai.wheremind/wheremind`
+- **[Zaptu](https://zaptu.ai/agents/)** `http` — Connects people with independent local US home-service pros: send a consented contact request for house cleaning, pest control and other services, or get a plumbing number the person dials. A contact request, not a booking; no auth. Endpoint: `https://api.zaptu.ai/mcp` · Registry: `ai.zaptu/zaptu`
 
 ### Work & productivity
 
