@@ -1,0 +1,9 @@
+{
+  "name": "Dexra",
+  "url": "https://github.com/dexra-dev/mcp",
+  "category": "finance",
+  "transport": "http",
+  "description": "Risk verdicts (ok, caution, avoid, with reasons) for Solana launches, tokens, wallets, pools and planned swaps; read-only. Three tools are free without a key, the rest take an API key (100 free credits a day) or pay per call in USDC over x402. Endpoint: `https://api.dexra.dev/mcp`",
+  "endpoint": "https://api.dexra.dev/mcp",
+  "registry": "dev.dexra/dexra"
+}
