@@ -1,0 +1,9 @@
+{
+  "name": "Revid",
+  "url": "https://www.revid.ai/mcp",
+  "category": "media",
+  "transport": "http",
+  "description": "Research what goes viral on TikTok, YouTube, Instagram and X, make finished short-form videos (voice, captions, music, AI footage) and publish or schedule them to your accounts. OAuth sign-in. Endpoint: `https://www.revid.ai/api/mcp`",
+  "endpoint": "https://www.revid.ai/api/mcp",
+  "registry": "ai.revid/revid"
+}
