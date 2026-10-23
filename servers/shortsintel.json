@@ -1,0 +1,8 @@
+{
+  "name": "ShortsIntel",
+  "url": "https://www.shortsintel.com/docs/mcp",
+  "category": "marketing",
+  "transport": "http",
+  "description": "Short-form video and ad intelligence for TikTok, Instagram Reels, YouTube Shorts and Facebook: research what works in a niche, track creators, hashtags, sounds and advertisers, and search the Meta and TikTok ad libraries. OAuth 2.1 or Bearer API key. Endpoint: `https://www.shortsintel.com/api/mcp` · [Plugin](https://github.com/luckson1/shortsintel-plugin)",
+  "endpoint": "https://www.shortsintel.com/api/mcp"
+}
