@@ -1,0 +1,8 @@
+{
+  "name": "ContextQA MCP",
+  "url": "https://mcp.contextqa.com/docs",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "Hosted end-to-end test creation, execution and failure investigation; OAuth and a ContextQA account required ([sign up](https://ship.contextqa.com/)); endpoint: `https://mcp.contextqa.com/mcp`.",
+  "endpoint": "https://mcp.contextqa.com/mcp"
+}
