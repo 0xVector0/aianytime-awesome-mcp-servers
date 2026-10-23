@@ -1,0 +1,9 @@
+{
+  "name": "Growo child growth",
+  "url": "https://usegrowo.com/mcp",
+  "category": "knowledge-memory",
+  "transport": "http",
+  "description": "Read-only child growth reference tools: WHO and CDC percentiles, BMI-for-age, birth size, corrected age and mid-parental height; no account or API key. Endpoint: `https://mcp.usegrowo.com/`",
+  "endpoint": "https://mcp.usegrowo.com/",
+  "registry": "com.usegrowo/growo-growth"
+}
