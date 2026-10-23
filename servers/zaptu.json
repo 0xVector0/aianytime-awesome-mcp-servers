@@ -1,0 +1,9 @@
+{
+  "name": "Zaptu",
+  "url": "https://zaptu.ai/agents/",
+  "category": "commerce-travel",
+  "transport": "http",
+  "description": "Connects people with independent local US home-service pros: send a consented contact request for house cleaning, pest control and other services, or get a plumbing number the person dials. A contact request, not a booking; no auth. Endpoint: `https://api.zaptu.ai/mcp` · Registry: `ai.zaptu/zaptu`",
+  "endpoint": "https://api.zaptu.ai/mcp",
+  "registry": "ai.zaptu/zaptu"
+}
