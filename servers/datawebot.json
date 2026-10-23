@@ -1,0 +1,9 @@
+{
+  "name": "datawebot",
+  "url": "https://github.com/datawebot/datawebot-mcp",
+  "category": "commerce-travel",
+  "transport": "http",
+  "description": "Ecommerce product data for agents: product search across online shops worldwide, every seller's price for one product with direct shop links, and extraction Jobs on Amazon (10 countries) and 1,100+ Shopify stores. OAuth 2.1 email sign-in, free; paid from 200 free trial credits. Endpoint: `https://mcp.datawebot.com/mcp` · [Docs](https://www.datawebot.com/docs/agents)",
+  "endpoint": "https://mcp.datawebot.com/mcp",
+  "registry": "com.datawebot/datawebot"
+}
