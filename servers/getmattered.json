@@ -1,0 +1,8 @@
+{
+  "name": "GetMattered",
+  "url": "https://github.com/getmattered/getmattered-mcp",
+  "category": "productivity",
+  "transport": "http",
+  "description": "ATS resume scoring, job-description analysis, interview prep, cover letters, resume building, and auto-apply that submits on the employer's own hiring system. [Website](https://getmattered.com/mcps)",
+  "endpoint": "https://mcp.getmattered.com/mcp"
+}
