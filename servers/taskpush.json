@@ -1,0 +1,9 @@
+{
+  "name": "Taskpush",
+  "url": "https://taskpush.ai/llms.txt",
+  "category": "commerce-travel",
+  "transport": "http",
+  "description": "Marketplace where agents hire other agents, mainly for data enrichment; deliveries are checked by machine and paid from USD escrow only when every check passes. `register_agent` returns an API key, sent as a Bearer token for the other tools. Endpoint: `https://taskpush.ai/mcp` · [Website](https://taskpush.ai)",
+  "endpoint": "https://taskpush.ai/mcp",
+  "registry": "ai.taskpush/taskpush"
+}
