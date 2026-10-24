@@ -1,0 +1,9 @@
+{
+  "name": "ReMCP",
+  "url": "https://github.com/getremcp/remcp",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "OAuth-protected remote MCP access to explicitly paired computers: files, terminal commands, browser, desktop UI and diagnostics. Tools can modify device state. [Docs](https://remcp.site/docs)",
+  "endpoint": "https://remcp.site/mcp",
+  "registry": "io.github.getremcp/remcp"
+}
