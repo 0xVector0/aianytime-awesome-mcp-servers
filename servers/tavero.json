@@ -1,0 +1,8 @@
+{
+  "name": "Tavero",
+  "url": "https://github.com/baccaraaa/tavero",
+  "category": "developer-tools",
+  "transport": "stdio",
+  "description": "Scans a running React 19 app (Vite or Next.js) for UI drift in buttons, cards, colors and spacing, and gives the coding agent each fix with file and line references. Free, MIT. Install: `npx -y tavero mcp`",
+  "registry": "io.github.baccaraaa/tavero"
+}
