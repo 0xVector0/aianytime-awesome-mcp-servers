@@ -1,0 +1,9 @@
+{
+  "name": "ExtensionDash",
+  "url": "https://extensiondash.com/",
+  "category": "cloud-data",
+  "transport": "http",
+  "description": "Hosted MCP access to Chrome and Firefox extension user counts, ratings and search-rank monitoring. OAuth required. Endpoint: `https://extensiondash.com/mcp` · [Website](https://extensiondash.com/)",
+  "endpoint": "https://extensiondash.com/mcp",
+  "registry": "io.github.tonic20/extensions-dashboard"
+}
