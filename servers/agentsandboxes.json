@@ -1,0 +1,9 @@
+{
+  "name": "AgentSandboxes",
+  "url": "https://agentsandboxes.fyi/developers",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "Read-only index of cloud sandbox providers for AI agents with source-linked specs; no account or API key. Endpoint: `https://agentsandboxes.fyi/mcp`",
+  "endpoint": "https://agentsandboxes.fyi/mcp",
+  "registry": "io.github.pooriaarab/agentsandboxes"
+}
