@@ -1,0 +1,9 @@
+{
+  "name": "Agent Wallet Index",
+  "url": "https://agentwalletindex.fyi/developers",
+  "category": "finance",
+  "transport": "http",
+  "description": "Read-only index of wallets and payment rails that let AI agents hold or spend money; no account or API key. Endpoint: `https://agentwalletindex.fyi/mcp`",
+  "endpoint": "https://agentwalletindex.fyi/mcp",
+  "registry": "io.github.pooriaarab/agentwalletindex"
+}
