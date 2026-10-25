@@ -1,0 +1,9 @@
+{
+  "name": "CreditUnions",
+  "url": "https://creditunions.fyi/developers",
+  "category": "finance",
+  "transport": "http",
+  "description": "Read-only index of US federally insured credit unions with NCUA call-report data and eligibility rules; no account or API key. Endpoint: `https://creditunions.fyi/mcp`",
+  "endpoint": "https://creditunions.fyi/mcp",
+  "registry": "io.github.pooriaarab/creditunions"
+}
