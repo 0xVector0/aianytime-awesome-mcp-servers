@@ -1,0 +1,9 @@
+{
+  "name": "Scento Perfume API",
+  "url": "https://github.com/Scento-com/perfume-mcp-server",
+  "category": "knowledge-memory",
+  "transport": "http",
+  "description": "Perfume notes, families, raw materials and similar scents for 1,400+ perfumes, read-only, no account or API key. Endpoint: `https://www.scento.com/mcp` · [Docs](https://www.scento.com/developers) · Registry: `com.scento/perfume-api`",
+  "endpoint": "https://www.scento.com/mcp",
+  "registry": "com.scento/perfume-api"
+}
