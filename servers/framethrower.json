@@ -1,0 +1,8 @@
+{
+  "name": "FrameThrower",
+  "url": "https://github.com/framethrower-ai/framethrower-mcp",
+  "category": "media",
+  "transport": "http",
+  "description": "Search film-reference frames by natural language or cinematography attributes, find similar frames, and retrieve frame metadata through four read-only tools. Hosted service with OAuth 2.1; $2 signup credits, then paid usage.",
+  "endpoint": "https://framethrower.ai/api/mcp"
+}
