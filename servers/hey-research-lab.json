@@ -1,0 +1,9 @@
+{
+  "name": "HEY Research Lab",
+  "url": "https://github.com/hey-research-lab/hey-research-open",
+  "category": "finance",
+  "transport": "http",
+  "description": "Read-only research on Robinhood Chain projects and tokens: whether a team is still shipping, what it shipped and what changed, each claim with its public source. Free, no key; also `npx -y @hey-research-lab/mcp` over stdio. Endpoint: `https://heyresearch.xyz/mcp`",
+  "endpoint": "https://heyresearch.xyz/mcp",
+  "registry": "io.github.hey-research-lab/hey-research"
+}
