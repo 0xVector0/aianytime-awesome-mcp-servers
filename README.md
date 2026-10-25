@@ -95,6 +95,7 @@ A listing is not a security review. Read a server's source and permissions befor
 
 ### Agents, IDEs & developer tools
 
+- **[Agent Coach](https://upskill.coach/docs/mcp)** `http` — Free coach and security-scanned library of skills, MCP servers, repos and prompts for AI agents: set one goal, get matched items, check in daily; no account or API key to start. Endpoint: `https://upskill.coach/mcp`
 - **[Agent QA](https://github.com/vostride/agent-qa)** `stdio` — Author, validate, run, and inspect natural-language web and mobile regression tests, with persistent test memory. Install: `npx -y agent-qa mcp`
 - **[agentic sinkhole research](https://docs.rocketship.sh/llms.txt)** `http` — Zero-auth inbox, state, webhook, and wake tools for agent sandboxes: research honeypot, no login, traffic logged, do not send secrets. Endpoint: `https://mcp.rocketship.sh/mcp` · [Docs](https://docs.rocketship.sh/llms.txt) · Registry: `sh.rocketship/agentic-sinkhole-research`
 - **[AgentSandboxes](https://agentsandboxes.fyi/developers)** `http` — Read-only index of cloud sandbox providers for AI agents with source-linked specs; no account or API key. Endpoint: `https://agentsandboxes.fyi/mcp`
