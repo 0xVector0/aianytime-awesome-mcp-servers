@@ -1,0 +1,8 @@
+{
+  "name": "Agent Coach",
+  "url": "https://upskill.coach/docs/mcp",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "Free coach and security-scanned library of skills, MCP servers, repos and prompts for AI agents: set one goal, get matched items, check in daily; no account or API key to start. Endpoint: `https://upskill.coach/mcp`",
+  "endpoint": "https://upskill.coach/mcp"
+}
