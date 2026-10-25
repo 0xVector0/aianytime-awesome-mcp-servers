@@ -1,0 +1,9 @@
+{
+  "name": "PushNotif",
+  "url": "https://github.com/AarsyDesign/pushnotif-mcp",
+  "category": "marketing",
+  "transport": "http",
+  "description": "Web Push (VAPID), Android (FCM), iOS (APNs), In-App Popup Banners, Social Proof Toasts, and Transactional Email OTP with 24 native MCP tools. Install: `npx -y pushnotif-mcp` \u00b7 [Website](https://pushnotif.biz.id)",
+  "endpoint": "https://pushnotif.biz.id/mcp",
+  "registry": "io.github.AarsyDesign/pushnotif-mcp"
+}
