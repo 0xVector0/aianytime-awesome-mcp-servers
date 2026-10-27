@@ -1,0 +1,8 @@
+{
+  "name": "Nakagawa Master Original Theory Router",
+  "url": "https://github.com/Nakagawa-master/nakagawa-theory-archive",
+  "category": "knowledge-memory",
+  "transport": "stdio",
+  "description": "Read-only local Python MCP: a Japanese, English or Chinese question returns a relevant Nakagawa Master original source, or no_fit. No account or API key; MCPB or documented checkout.",
+  "registry": "io.github.Nakagawa-master/nakagawa-original-router"
+}
